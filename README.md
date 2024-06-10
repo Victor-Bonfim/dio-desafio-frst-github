@@ -1,2 +1,2 @@
-# dio-desafio-frst-github
-Desafio de código para o primeiro projeto sobre GITHUB.
+# DESAFIO DE PROJETO DA DIO!
+Repositório para desafio de código da DIO.
